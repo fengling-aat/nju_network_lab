@@ -1,0 +1,50 @@
+2021/06/17-11:27:48| [INFO] DNS server started
+['homepage.cncourse.org.', 'CNAME', 'home.cncourse.org.']
+['*.cncourse.org.', 'CNAME', 'home.nasa.org.']
+['*.netlab.org.', 'CNAME', 'home.nasa.org.']
+['home.nasa.org.', 'A', '10.0.0.1', '10.0.0.2', '10.0.0.3']
+['lab.nasa.org.', 'A', '10.0.0.4', '10.0.0.5']
+['*.localhost.computer', 'A', '10.0.0.23']
+DNS server serving on 0.0.0.0:8161
+2021/06/17-11:27:50| [Info] Receving DNS request from '10.0.0.24' asking for 'stfw.localhost.computer.'
+domain: stfw.localhost.computer.
+['homepage.cncourse.org.', 'CNAME', 'home.cncourse.org.']
+homepage.cncourse.org stfw.localhost.computer
+['*.cncourse.org.', 'CNAME', 'home.nasa.org.']
+*.cncourse.org stfw.localhost.computer
+['*.netlab.org.', 'CNAME', 'home.nasa.org.']
+*.netlab.org stfw.localhost.computer
+['home.nasa.org.', 'A', '10.0.0.1', '10.0.0.2', '10.0.0.3']
+home.nasa.org stfw.localhost.computer
+['lab.nasa.org.', 'A', '10.0.0.4', '10.0.0.5']
+lab.nasa.org stfw.localhost.computer
+['*.localhost.computer', 'A', '10.0.0.23']
+*.localhost.computer stfw.localhost.computer
+2021/06/17-11:27:52| [Info] Receving DNS request from '10.0.0.24' asking for 'stfw.localhost.computer.'
+domain: stfw.localhost.computer.
+['homepage.cncourse.org.', 'CNAME', 'home.cncourse.org.']
+homepage.cncourse.org stfw.localhost.computer
+['*.cncourse.org.', 'CNAME', 'home.nasa.org.']
+*.cncourse.org stfw.localhost.computer
+['*.netlab.org.', 'CNAME', 'home.nasa.org.']
+*.netlab.org stfw.localhost.computer
+['home.nasa.org.', 'A', '10.0.0.1', '10.0.0.2', '10.0.0.3']
+home.nasa.org stfw.localhost.computer
+['lab.nasa.org.', 'A', '10.0.0.4', '10.0.0.5']
+lab.nasa.org stfw.localhost.computer
+['*.localhost.computer', 'A', '10.0.0.23']
+*.localhost.computer stfw.localhost.computer
+2021/06/17-11:27:52| [Info] Receving DNS request from '10.0.0.24' asking for 'stfw.localhost.computer.'
+domain: stfw.localhost.computer.
+['homepage.cncourse.org.', 'CNAME', 'home.cncourse.org.']
+homepage.cncourse.org stfw.localhost.computer
+['*.cncourse.org.', 'CNAME', 'home.nasa.org.']
+*.cncourse.org stfw.localhost.computer
+['*.netlab.org.', 'CNAME', 'home.nasa.org.']
+*.netlab.org stfw.localhost.computer
+['home.nasa.org.', 'A', '10.0.0.1', '10.0.0.2', '10.0.0.3']
+home.nasa.org stfw.localhost.computer
+['lab.nasa.org.', 'A', '10.0.0.4', '10.0.0.5']
+lab.nasa.org stfw.localhost.computer
+['*.localhost.computer', 'A', '10.0.0.23']
+*.localhost.computer stfw.localhost.computer
